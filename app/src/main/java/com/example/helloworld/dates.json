@@ -1,0 +1,23 @@
+{
+  "dates": [
+    {
+      "name": "Cultive Frozen Yogurt",
+      "description": "Delicious frozen Yogurt",
+      "category":"food",
+      "budget": 20,
+      "days_open": ["tuesday","wednesday","thursday","saturday"],
+      "time_spent": 30,
+      "map" : "link.com"
+    },
+    {
+      "name": "Date 2",
+      "description": "DESCRIPTION",
+      "category":"first_date)",
+      "budget": 30,
+      "days_open": ["monday","tuesday"],
+      "time_spent": 23,
+      "map" : "thing"
+    }
+
+  ]
+}
